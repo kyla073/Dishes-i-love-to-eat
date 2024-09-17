@@ -1,0 +1,181 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url( 'Premium\ Photo\ _\ Various\ kitchen\ utensils\ on\ wooden\ table\ background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(255, 99, 71, 0.9); 
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.recipe-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.recipe-details {
+    margin-top: 30px;
+}
+
+.ingredients, .instructions, .tips {
+    margin-top: 30px;
+}
+
+.ingredients ul, .tips ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+.instructions ol {
+    padding-left: 30px;
+}
+
+h2 {
+    border-bottom: 2px solid #ff6347;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+h3 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #ff6347;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url('Premium\ Photo\ _\ Various\ kitchen\ utensils\ on\ wooden\ table\ background.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(255, 99, 71, 0.9);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9); 
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe {
+    margin-bottom: 30px;
+}
+
+.recipe-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.recipe-details {
+    margin-top: 30px;
+}
+
+.recipe-details p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 0 0 30px;
+}
+
+.ingredients ul, .tips ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+.instructions ol {
+    padding-left: 30px;
+}
+
+
+h2 {
+    border-bottom: 2px solid #ff6347; 
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+h3 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+
+footer {
+    background-color: rgba(255, 99, 71, 0.9);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
